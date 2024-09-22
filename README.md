@@ -76,7 +76,16 @@ Network.py consists of a **Network class** which inherited from  Node class. So,
 
 In Node class, there are GENESIS_NODE_ADDR and GENESIS_NODE_PORT variables which is the genesis node's connection address known by everyone.
 
+## Run 
 
+```python
+python3 node1.py
+```
+Use Another Terminal 
+
+```python
+python3 node2.py
+```
 
 
 
