@@ -146,7 +146,7 @@ To understand clearly , assume that a new node **G** want to join this network. 
 ![alt text](img/p2p.jpg)
 
 
-
+**Now G has New Connected**
 
 
 
