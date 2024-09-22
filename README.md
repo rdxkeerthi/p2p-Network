@@ -92,10 +92,8 @@ python3 node2.py
 # More
 
 
+![The-Peer-to-Peer-blockchain-network-structure-8-and-the-infrastructure-of-edge](https://github.com/user-attachments/assets/784dec07-0d9d-4a78-a1c7-284039ac4a21)
 
-![Screenshot from 2024-09-21 20-57-45](https://github.com/user-attachments/assets/9f0535d2-b9b4-468e-8f85-ff5228afb7f5)
-
-![Screenshot from 2024-09-21 20-57-51](https://github.com/user-attachments/assets/f3b73be3-70d9-44e6-860c-69033407b775)
 
 
 
